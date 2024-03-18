@@ -67,4 +67,4 @@ def detect_objects(image_path):
     cv2.destroyAllWindows()
 
 
-detect_objects('C:/Users/user/OneDrive/Bureau/Mes projets/Python/food_wine.jpg')
+detect_objects('food_wine.jpg')
