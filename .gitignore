@@ -1,3 +1,7 @@
 coco.names
 yolov3.cfg
 yolov3.weights
+
+output_food_wine.jpg
+output_soft_ing.jpg
+soft_ing.jpg
